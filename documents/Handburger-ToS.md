@@ -1,84 +1,137 @@
-# **Commission Terms & Conditions**
+# **Handburger Commission Terms of Service (ToS)**  
+#### Effective Date: October 18, 2025  
 
-#### Dated - October 18th, 2025
+Welcome, and thank you for your interest in commissioning me (“Handburger”).  
+By commissioning my services through Ko-fi or any affiliated platform, you (“the Client”) agree to the following Terms of Service.  
+Please read this document carefully before placing an order.
 
-By commissioning me, you ("the Client") agree to the following terms and conditions. Please read them carefully before initiating a commission.
+---
 
-## **1. Services & Pricing**
+## **1. Overview**
 
-All prices are in USD.
+These Terms of Service govern all commission-based work provided by Handburger, including music looping, editing, and related creative services.  
+By submitting a commission request, you acknowledge that you have read, understood, and agreed to these terms in their entirety.
 
-### **A. Initial Commission Package**
+All prices are listed in **USD** unless otherwise specified.  
+Communication, progress tracking, and file delivery are typically conducted via **Discord** and **Trello**.
+
+---
+
+## **2. Services & Pricing**
+
+### **A. Base Commission Package**
 * **Base Cost:** $8.50 for up to 3 (three) songs.  
-* **Additional Songs:** $1.60 per song (beyond the initial 3).  
-* **Project Management Add-on:** $4.00 for access to a private Trello board and 2 revisions.
+* **Additional Songs:** $1.60 per extra song (beyond the first 3).  
+* **Project Management Add-on:** $4.00 — includes access to a private Trello board and 2 revisions.
 
 ### **B. Post-Trello Adjustments & Additional Work**
-Once the Trello board is set up and the initial revision period has begun, any new requests or significant changes will be subject to the following fees. This is to cover the administrative and creative work of altering an existing project plan.  
-* **Post-Trello Change Fee:** A one-time fee of $5.00 is applied for any new requests made after the initial commission is locked in the Trello board.  
-* **Additional Song Edits:** $2.50 per edit (for songs already part of the commission).  
-* **Brand New Edits:** $3.00 per new song or edit not included in the original scope.  
-* **Additional Revisions:** $4.00 per revision after the initial 2 revisions included in the add-on have been used.
+Once a Trello board has been created and the initial project has begun, any new or significant change requests will be subject to the following fees:
+* **Post-Trello Change Fee:** $5.00 per new request after the project is locked in Trello.
+* **Extra Revisions:** $4.00 each after the initial 2 included in the Trello add-on.
+* **Additional Song Edits:** $2.50 per edit (for songs already in the project).  
+* **Brand New Edits:** $3.00 per new song or edit outside the original scope.  
 
-## **2. The Commission Process**
+All prices are **non-negotiable**.
 
-1. **Inquiry:** The Client fills out the commission form on my Ko-fi page with details of their request.  
-2. **Quote & Agreement:** I will provide a final quote based on your request. Full payment is required upfront before work begins.  
-3. **Project Setup:** Once payment is confirmed, I will create the initial version (v1) of your commission. If you purchased the Trello add-on, you will receive an invitation to a private board to track progress.  
-4. **Revisions:** The Client may provide feedback for revisions. The initial production (v1) is not counted as a revision. The "Trello + 2 Revisions" add-on covers the creation of v2 and v3 based on your feedback.  
-5. **Final Delivery:** Completed files will be distributed digitally through a download link, typically through Discord communications. Typical turnaround for a given project is 4–5 days, however this may vary due to project complexity, private matters, and communication speed/clarity. Product is provided as-is.
+---
 
-## **3. Revisions Policy**
+## **3. Ordering Process**
 
-* Revisions must be requested within a reasonable timeframe (Within 1 month).  
-* Revisions are for minor to moderate adjustments (e.g. small structural tweaks). They are not for creating a brand new piece.  
-* If you require more than the number of revisions you purchased, additional revisions can be purchased for $4.00 each.  
-* Any new requests added *after* the project has been started on Trello will incur the "Post-Trello Change Fee" plus any applicable costs for the new work.
+1. **Inquiry:**  
+   Submit a commission form via my [Ko-fi page](https://ko-fi.com/handburger/commissions) detailing your request.  
 
-## **4. Payment Terms**
+2. **Quote & Agreement:**  
+   You will receive a price quote based on your project details. Once you confirm, full payment is required before I begin work.  
 
-* Full payment is required before I begin any work on the commission.  
-* Payments are processed securely through Ko-fi.  
-* All prices are non-negotiable.
+3. **Project Setup:**  
+   After payment, I will produce the initial version (**v1**) of your commission.  
+   If the Trello add-on was purchased, you’ll be invited to a private board for progress tracking and feedback.  
 
-## **5. Cancellation & Refund Policy**
+4. **Revisions:**  
+   The Trello add-on includes 2 revisions (**v2** and **v3**) for refinement based on your feedback.  
+   The first version (**v1**) is not counted as a revision.  
 
-* If a commission is cancelled by the Client **before** work has commenced, a full refund will be issued.  
-* If a commission is cancelled by the Client **after** work has begun (i.e., after the initial v1 has been delivered), no refund will be issued as the time and creative effort have already been spent.
+5. **Delivery:**  
+   Final files are delivered digitally via a download link, typically through **Discord**.  
+   Standard turnaround time is **4–5 days**, though this may vary depending on project complexity, private matters, and communication speed.  
+   Products are delivered **as-is** unless further revisions are purchased.
 
-## **6. Client Inactivity / Rejection Clause**
+---
 
-* If the Client does not respond to updates or revision requests within **14 days**, the project will be considered complete and closed with no further revisions or refunds.  
-* Excessive rejections that result in a restart of the entire project may be declined or subject to additional fees.
+## **4. Revisions & Communication**
 
-## **7. Copyright & Usage**
+* Revisions must be requested within a **reasonable timeframe** after receiving the previous version.  
+* Revisions are intended for **minor or moderate adjustments** (e.g. structural balance, timing tweaks), not complete remakes.  
+* Additional revisions beyond those purchased are available for **$4.00 each**.  
+* Requests made **after** the Trello project is finalized will incur the **Post-Trello Change Fee** plus any related costs.
 
-* Upon final payment and delivery, the Client retains the rights to use the final commissioned audio for their personal or commercial projects.  
-* I, the artist ("Handburger"), retain the right to display the commissioned work in my portfolio and on social media to showcase my skills, unless the Client explicitly requests it to be kept private.
+> A reasonable timeframe is defined as within 1 month (31 Days).
+
+### **Client Inactivity / Rejection Clause**
+* If the Client becomes inactive or fails to respond for **31 days**, the project will be marked as complete and closed with no refunds or further revisions.  
+* Repeated rejections or full project restarts may be declined or charged additional fees.
+
+---
+
+## **5. Payment Terms**
+
+* All payments must be made **in full upfront** before any work begins.  
+* Payments are securely processed through **Ko-fi**.  
+* Prices are fixed and **non-negotiable**.  
+* Work will not start until payment is confirmed.
+
+---
+
+## **6. Cancellations & Refunds**
+
+* If the Client cancels **before work begins**, a **full refund** will be issued.  
+* If the Client cancels **after work has begun** (i.e. after version v1 is delivered), **no refund** will be issued.  
+* Refunds are not available for completed projects or missed communication leading to project closure.  
+
+These policies exist to respect the creative time, effort, and scheduling involved in each project.
+
+---
+
+## **7. Ownership & Usage Rights**
+
+* Upon full payment and delivery, the Client obtains the right to use the final commissioned work for **personal or commercial projects**.  
+* Handburger retains **creator rights** to display, promote, or showcase the commissioned work in portfolios, social media posts, or examples of previous work.  
+* The Client may request that their project remain **private**, in which case I will not display it publicly.
+
+Unpaid or cancelled works remain the full property of Handburger and may not be used, reposted, or redistributed by the Client.
+
+---
 
 ## **8. Privacy & Data Use**
 
-* Personal information provided (such as names, email addresses, and Discord or Trello usernames) will only be used for communication, file delivery, and project management purposes.  
-* No personal data will be shared, sold, or distributed to third parties.  
-* Any stored data may be deleted upon request after project completion.
-
-## **9. Agreement**
-
-By sending payment for a commission, you confirm that you have read, understood, and agree to these Terms and Conditions.
+* Personal information (e.g. name, email, Discord or Trello usernames) is collected **only** for commission-related communication, delivery, and organization.  
+* I will never share, sell, or distribute personal data to third parties.  
+* Any stored project information may be deleted upon request once the project is completed.
 
 ---
 
-## **TL;DR (Short Summary)**
+## **9. Miscellaneous**
 
-- Base cost: **$8.50 for up to 3 songs**, +$1.60 per extra song.  
-- Optional **Trello add-on ($4)** includes project tracking and **2 revisions** (v2 + v3).  
-- **Full payment upfront** through Ko-fi.  
-- **Final files sent via Discord** (typically within 4–5 days).  
-- **No refunds** after I start working or deliver v1.  
-- **Extra work or major changes after Trello setup** → extra fees apply.  
-- **If there's no communication for 21 days**, the project is closed automatically. The only situation where this does not apply is a communicated hiatus/reason for non-work.  
-- You own the finished result; I can show it in my portfolio unless you ask me not to.  
-- I respect your privacy — your info stays between us.
+* Communication should be respectful, timely, and clear to ensure smooth collaboration.  
+* Estimated timelines are **approximations**, not guarantees.  
+* These terms may be updated periodically, and any significant changes will be reflected on my Ko-fi or GitHub page.  
+* Continued communication or payment after an update constitutes acceptance of the new version.
 
 ---
 
+## **10. TL;DR (Quick Summary)**
+
+- **$8.50** for up to 3 songs, +**$1.60** per extra song.  
+- **$4 Trello add-on** = project board + 2 revisions (v2 + v3).  
+- Full payment **upfront** through Ko-fi.  
+- Files sent via **Discord** (usually within 4–5 days).  
+- **No refunds** once work starts or v1 is delivered.  
+- New ideas or big changes after Trello setup = **extra fees**.  
+- If you go silent for **21 days**, I’ll close the project.  
+- You own the final audio; I can show it off unless you ask otherwise.  
+- Your info stays private and used only for your commission.
+
+---
+
+_Last updated: October 18, 2025_  
+© 2025 Handburger. All Rights Reserved.
