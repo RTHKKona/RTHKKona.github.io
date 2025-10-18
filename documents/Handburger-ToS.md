@@ -30,7 +30,8 @@ All work requested after the initial version (v1) has been delivered is consider
 * **New Request Processing Fee:** $5.00 per re-opening the project after final iteration was provided. It covers the administrative time required to process the request and re-engage with the project.
 
 * **Edit Existing Song:** $2.50 per edit (for songs already in the project).  
-* **Add Brand New Edits:** $3.00 per new song outside the original commisson project scope.  
+* **Add Brand New Edits:** $3.00 per new song outside the original commisson project scope.
+* **Additional Trello Revision:** $3.00 for an additional Trello revision.
 
 All prices are **non-negotiable**.
 
@@ -135,6 +136,7 @@ Unpaid or cancelled works remain the full property of Handburger and may not be 
 
 _Last updated: October 18, 2025_  
 © 2025 Handburger. All Rights Reserved.
+
 
 
 
