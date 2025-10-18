@@ -26,7 +26,7 @@ Once the Trello board is set up and the initial revision period has begun, any n
 2.  **Quote & Agreement:** I will provide a final quote based on your request. Full payment is required upfront before work begins.
 3.  **Project Setup:** Once payment is confirmed, I will create the initial version (v1) of your commission. If you purchased the Trello add-on, you will receive an invitation to a private board to track progress.
 4.  **Revisions:** The Client may provide feedback for revisions. The initial production (v1) is not counted as a revision. The "Trello + 2 Revisions" add-on covers the creation of v2 and v3 based on your feedback.
-5.  **Final Delivery:** Upon approval of the final version, I will deliver the completed files as specified.
+5.  **Final Delivery:** I will deliver the completed files as specified. Product is provided as-is.
 
 ## **3. Revisions Policy**
 
@@ -54,5 +54,6 @@ Once the Trello board is set up and the initial revision period has begun, any n
 ## **7. Agreement**
 
 By sending payment for a commission, you confirm that you have read, understood, and agree to these Terms and Conditions.
+
 
 ---
