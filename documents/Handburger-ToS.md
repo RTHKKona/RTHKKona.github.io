@@ -22,14 +22,15 @@ Communication, progress tracking, and file delivery are typically conducted via 
 ### **A. Base Commission Package**
 * **Base Cost:** $8.50 for up to 3 (three) songs.  
 * **Additional Songs:** $1.60 per extra song (beyond the first 3).  
-* **Project Management Add-on:** $4.00 — includes access to a private Trello board and 2 revisions.
+* **Project Management Add-on:** $4.00 — Highly Recommended. Includes access to a dedicated private Trello board for the duration of your project. This board serves as the central hub for all communication, file delivery, and revisions until the project is marked complete. Also includes two (2) complimentary revisions.
 
-### **B. Post-Trello Adjustments & Additional Work**
-Once a Trello board has been created and the initial project has begun, any new or significant change requests will be subject to the following fees:
-* **Post-Trello Change Fee:** $5.00 per new request after the project is locked in Trello.
-* **Extra Revisions:** $4.00 each after the initial 2 included in the Trello add-on.
-* **Additional Song Edits:** $2.50 per edit (for songs already in the project).  
-* **Brand New Edits:** $3.00 per new song or edit outside the original scope.  
+### **B. Additional Work & Revisions**
+All work requested after the initial version (v1) has been delivered is considered additional work. To ensure every request is handled efficiently, a processing fee is applied to new tasks submitted after a project is complete and the Trello board (if applicable) has been archived.
+
+* **New Request Processing Fee:** $5.00 per re-opening the project after final iteration was provided. It covers the administrative time required to process the request and re-engage with the project.
+
+* **Edit Existing Song:** $2.50 per edit (for songs already in the project).  
+* **Add Brand New Edits:** $3.00 per new song outside the original commisson project scope.  
 
 All prices are **non-negotiable**.
 
@@ -122,12 +123,12 @@ Unpaid or cancelled works remain the full property of Handburger and may not be 
 ## **10. TL;DR (Quick Summary)**
 
 - **$8.50** for up to 3 songs, +**$1.60** per extra song.  
-- **$4 Trello add-on** = project board + 2 revisions (v2 + v3).  
+- **$4 Trello Project Management Add-on** = project board + 2 revisions (v2 + v3).  
 - Full payment **upfront** through Ko-fi.  
 - Files sent via **Discord** (usually within 4–5 days).  
 - **No refunds** once work starts or v1 is delivered.  
 - New ideas or big changes after Trello setup = **extra fees**.  
-- If you go silent for **31 days**, I’ll close the project.  
+- If you go silent for **31 days** on Discord, I’ll close the project.  
 - You own the final audio; I can show it off unless you ask otherwise.  
 - Your info stays private and used only for your commission.
 
@@ -135,4 +136,5 @@ Unpaid or cancelled works remain the full property of Handburger and may not be 
 
 _Last updated: October 18, 2025_  
 © 2025 Handburger. All Rights Reserved.
+
 
