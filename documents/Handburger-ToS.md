@@ -63,10 +63,9 @@ All prices are **non-negotiable**.
 
 * Revisions must be requested within a **reasonable timeframe** after receiving the previous version.  
 * Revisions are intended for **minor or moderate adjustments** (e.g. structural balance, timing tweaks), not complete remakes.  
-* Additional revisions beyond those purchased are available for **$4.00 each**.  
-* Requests made **after** the Trello project is finalized will incur the **Post-Trello Change Fee** plus any related costs.
+* Requests made **after** the Trello project is finalized will incur the **New Request Processing Fee** plus any related costs.
 
-> A reasonable timeframe is defined as within 1 month (31 Days).
+> A reasonable timeframe is defined as within *1 month (31 Days)*.
 
 ### **Client Inactivity / Rejection Clause**
 * If the Client becomes inactive or fails to respond for **31 days**, the project will be marked as complete and closed with no refunds or further revisions.  
@@ -136,5 +135,6 @@ Unpaid or cancelled works remain the full property of Handburger and may not be 
 
 _Last updated: October 18, 2025_  
 © 2025 Handburger. All Rights Reserved.
+
 
 
