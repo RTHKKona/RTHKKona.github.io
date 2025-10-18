@@ -127,7 +127,7 @@ Unpaid or cancelled works remain the full property of Handburger and may not be 
 - Files sent via **Discord** (usually within 4–5 days).  
 - **No refunds** once work starts or v1 is delivered.  
 - New ideas or big changes after Trello setup = **extra fees**.  
-- If you go silent for **21 days**, I’ll close the project.  
+- If you go silent for **31 days**, I’ll close the project.  
 - You own the final audio; I can show it off unless you ask otherwise.  
 - Your info stays private and used only for your commission.
 
@@ -135,3 +135,4 @@ Unpaid or cancelled works remain the full property of Handburger and may not be 
 
 _Last updated: October 18, 2025_  
 © 2025 Handburger. All Rights Reserved.
+
