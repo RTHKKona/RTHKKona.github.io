@@ -1,5 +1,5 @@
-# Handburger's Analyst Portfolio
 <img src="https://github.com/user-attachments/assets/6d60d482-a336-491e-ab69-0569a1a6bcbc" style="max-width: 100%; height: auto;"/>
+#### Hello! Here's my portfolio/e-sports resume.
 
 ### Table of Contents
 * Professional Experience
