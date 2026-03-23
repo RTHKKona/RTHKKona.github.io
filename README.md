@@ -1,12 +1,13 @@
 <img src="https://github.com/user-attachments/assets/6d60d482-a336-491e-ab69-0569a1a6bcbc" style="max-width: 100%; height: auto;"/>
-#### Hello! Here's my portfolio/e-sports resume.
+
+#### Hello! Here's my portfolio/e-sports resume for League of Legends.
 
 ### Table of Contents
 * Professional Experience
 * HB Prepper (Custom Tool)
 * Competencies
 * Methodology
-* Redacted Examples of Work
+* Redacted Samples of Work
 * Contact
 ---
 ### Professional Experience
@@ -25,9 +26,13 @@ To solve the frustrations with the public free tools, I developed a private in-h
 **Key Features:**
 - **Open-ended Scouting:** A private tool that is simultaneously a blank canvas and a place to aggregate data.
 - **Map Planning Integration:** A visual interface for drafting level 1 setups and jungle pathing strategies based on enemy positional habits.
-- **Draft Simulation:** Analyzes win conditions and synergy gaps for proposed drafts before the game even starts.
+- **Draft Simulation:** Analyzes win conditions and synergy gaps for proposed drafts prior to game day.
+- **Comp Analysis** Previews a proposed team composition idea and evaluates the pros and cons of each element within the comp.
 
 ##### ***Note: This tool is currently proprietary for active competitive use.***
+
+<img src="https://github.com/user-attachments/assets/a5aa3d9d-b418-49f3-baaf-c135231f50be" style="max-width: 100%; height: auto;"/>
+
 ---
 ### Competencies
 
@@ -51,7 +56,8 @@ My workflow is structured to ensure that analysis results in action:
 <img src="https://github.com/user-attachments/assets/66421e24-c869-4719-89ba-bdf82f9fc969" style="max-width: 100%; height: auto;"/>
 <img src="https://github.com/user-attachments/assets/de15ad63-5c53-406d-b47a-4416ba783765" style="max-width: 100%; height: auto;"/>
 <img src="https://github.com/user-attachments/assets/729961bf-ee1c-40d0-89ca-2295dc6d8b61" style="max-width: 100%; height: auto;"/>
-<img src="https://github.com/user-attachments/assets/a5aa3d9d-b418-49f3-baaf-c135231f50be" style="max-width: 100%; height: auto;"/>
+<img src="https://github.com/user-attachments/assets/a763a483-5991-434a-a81d-54b83a33e316" style="max-width: 100%; height: auto;"/>
+
 
 ### Contact
 Discord: Handburger
