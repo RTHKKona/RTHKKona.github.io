@@ -3,13 +3,14 @@
 #### Hello! Here's my portfolio/e-sports resume for League of Legends.
 
 ### Table of Contents
-* Professional Experience
-* HB Prepper (Custom Tool)
-* Competencies
-* Methodology
-* Redacted Samples of Work
-* Contact
+* [Professional Experience](#professional-experience)
+* [HB Prepper (Custom Tool)](#featured-project-private-analyst-suite---hbprepper)
+* [Competencies](#competencies)
+* [Methodology](#methodology)
+* [Redacted Samples of Work](#redacted-samples-of-work)
+* [Contact](#contact)
 ---
+
 ### Professional Experience
 
 **Freelance LoL Analyst & Head Coach** | *3 Competitive Teams (Tier 3/4)*
@@ -19,6 +20,9 @@
 - **Draft & Prep:** Led draft preparation by analyzing enemy tendencies (OP.GG champion pools + VOD enemy positioning), creating tailored blue/red side strategies that exploited opponent patterns.
 - **Individual Development:** Conducted weekly VOD reviews to address mechanical habits and champion pool gaps, offering specific advice that led to measurable improvements in individual player performance metrics.
 - **Team Cohesion:** Facilitated weekly team VOD reviews focused on champion understanding and teamfight synergy, breaking down complex macro errors into digestible lessons for the roster.
+
+[↑ Back to Top](#table-of-contents)
+
 ---
 ### Featured Project: Private Analyst Suite - HBPrepper
 
@@ -33,6 +37,8 @@ To solve the frustrations with the public free tools, I developed a private in-h
 
 <img src="https://github.com/user-attachments/assets/a5aa3d9d-b418-49f3-baaf-c135231f50be" style="max-width: 100%; height: auto;"/>
 
+[↑ Back to Top](#table-of-contents)
+
 ---
 ### Competencies
 
@@ -43,6 +49,9 @@ To solve the frustrations with the public free tools, I developed a private in-h
 | **Coaching** | Weekly VOD Review Sessions, Scrim Analysis |
 | **Scouting** | Deep opponent VOD Analysis ( tendencies, ward spots, pathing), Pattern Recognition, Enemy Team Habit Mapping |
 
+[↑ Back to Top](#table-of-contents)
+
+---
 ### Methodology
 
 My workflow is structured to ensure that analysis results in action:
@@ -51,6 +60,9 @@ My workflow is structured to ensure that analysis results in action:
 2.  **Internal Review (Us):** Weekly reviews focusing on "Why" we lost fights, not just "What" we lost. I emphasize champion mastery and mechanical synergy to ensure the team is playing to their individual strengths.
 3.  **Collaboration:** I work alongside the Head Coach, not in isolation, that way the direction of the team is unified. I provide the data and pattern recognition; they manage the player psychology. Together, we create a holistic environment for improvement.
 
+[↑ Back to Top](#table-of-contents)
+
+---
 ### Redacted Samples of Work
 
 <img src="https://github.com/user-attachments/assets/66421e24-c869-4719-89ba-bdf82f9fc969" style="max-width: 100%; height: auto;"/>
@@ -58,6 +70,8 @@ My workflow is structured to ensure that analysis results in action:
 <img src="https://github.com/user-attachments/assets/729961bf-ee1c-40d0-89ca-2295dc6d8b61" style="max-width: 100%; height: auto;"/>
 <img src="https://github.com/user-attachments/assets/a763a483-5991-434a-a81d-54b83a33e316" style="max-width: 100%; height: auto;"/>
 
+---
+[↑ Back to Top](#table-of-contents)
 
 ### Contact
 Discord: Handburger
