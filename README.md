@@ -34,8 +34,8 @@ To solve the frustrations with the public free tools, I developed a private in-h
 | :--- | :--- |
 | **Technical & Tools** | Python, Data Visualization, **Private Scouting Tool - HBPrepper (Custom)**, VOD Review Software (OBS) |
 | **Strategic** | Draft Preparation (Blue/Red side), Level 1 Pattern Recognition, Meta Adaptation, Jungle Pathing, Wave Management Theory |
-| **Coaching** | Individual Player Development (1-on-1), Team Cohesion Workshops, Weekly VOD Review Sessions, Scrim Analysis |
-| **Scouting** | Advanced OP.GG Analysis ( tendencies, ward spots, pathing), Deep-Dive VOD Pattern Recognition, Enemy Team Habit Mapping |
+| **Coaching** | Weekly VOD Review Sessions, Scrim Analysis |
+| **Scouting** | Deep opponent VOD Analysis ( tendencies, ward spots, pathing), Pattern Recognition, Enemy Team Habit Mapping |
 
 ### Methodology
 
