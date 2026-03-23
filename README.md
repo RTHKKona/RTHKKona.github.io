@@ -1,4 +1,5 @@
 # Handburger's Analyst Portfolio
+<img src="https://github.com/user-attachments/assets/6d60d482-a336-491e-ab69-0569a1a6bcbc" style="max-width: 100%; height: auto;"/>
 
 ### Table of Contents
 * Professional Experience
@@ -47,8 +48,8 @@ I believe that data without context is noise. My workflow is structured to ensur
 
 ### Redacted Examples of Work
 
-<img width="1775" height="593" alt="REDACTEDScreenshot 2026-02-26 122553" src="https://github.com/user-attachments/assets/66421e24-c869-4719-89ba-bdf82f9fc969" />
-<img width="1235" height="789" alt="REDACTEDScreenshot 2026-02-08 212800" src="https://github.com/user-attachments/assets/de15ad63-5c53-406d-b47a-4416ba783765" />
+<img src="https://github.com/user-attachments/assets/66421e24-c869-4719-89ba-bdf82f9fc969" style="max-width: 100%; height: auto;" />
+<img src="https://github.com/user-attachments/assets/de15ad63-5c53-406d-b47a-4416ba783765" style="max-width: 100%; height: auto;"/>
 
 ### Contact
 Discord: Handburger
