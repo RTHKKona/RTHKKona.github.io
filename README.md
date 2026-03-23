@@ -9,6 +9,7 @@
 * [Methodology](#methodology)
 * [Redacted Samples of Work](#redacted-samples-of-work)
 * [Contact](#contact)
+
 ---
 
 ### Professional Experience
