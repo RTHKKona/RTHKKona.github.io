@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/6d60d482-a336-491e-ab69-0569a1a6bcbc" style="max-width: 100%; height: auto;"/>
 
-#### Hello! Here's my portfolio/e-sports resume for League of Legends.
+#### Hello! Here's my portfolio/e-sports resume for League of Legends. If you would like to contact me for inquiries, my Discord username is Handburger.
 
 ### Table of Contents
 * [Professional Experience](#professional-experience)
@@ -30,8 +30,10 @@ To solve the frustrations with the public free tools, I developed a private in-h
 **Key Features:**
 - **Open-ended Scouting:** A private tool that is simultaneously a blank canvas and a place to aggregate data.
 - **Map Planning Integration:** A visual interface for drafting level 1 setups and jungle pathing strategies based on enemy positional habits.
+- **Fog of War Simulation:** Simulates and shows vision per-team and HP/Mana bars for deep situation discussions.
 - **Draft Simulation:** Analyzes win conditions and synergy gaps for proposed drafts prior to game day.
-- **Comp Analysis** Previews a proposed team composition idea and evaluates the pros and cons of each element within the comp.
+- **Comp Analysis:** Previews a proposed team composition idea and evaluates the pros and cons of each element within the comp.
+- **Adaptable:** Player tierlist champion pools and Comps can be saved for future reference.
 
 ##### ***Note: This tool is currently proprietary for active competitive use.***
 
@@ -45,7 +47,7 @@ To solve the frustrations with the public free tools, I developed a private in-h
 | Category | Skills & Tools |
 | :--- | :--- |
 | **Technical & Tools** | Python, Data Visualization, **Private Scouting Tool - HBPrepper (Custom)**, VOD Review Software (OBS) |
-| **Strategic** | Draft Preparation (Blue/Red side), Level 1 Pattern Recognition, Meta Adaptation, Jungle Pathing, Wave Management Theory |
+| **Strategic** | Draft Preparation (Blue/Red side), Level 1 Pattern Recognition, Meta Adaptation, Jungle Pathing, Wave Management, Midgame Macro |
 | **Coaching** | Weekly VOD Review Sessions, Scrim Analysis |
 | **Scouting** | Deep opponent VOD Analysis ( tendencies, ward spots, pathing), Pattern Recognition, Enemy Team Habit Mapping |
 
