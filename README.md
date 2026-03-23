@@ -4,10 +4,13 @@
 * Professional Experience
 * HB Prepper (Custom Tool)
 * Competencies
+* Methodology
+* Redacted Examples of Work
+* Contact
 ---
 ### Professional Experience
 
-**Freelance Analyst & Head Coach** | *3 Competitive Teams (Tier 3/4)*
+**Freelance LoL Analyst & Head Coach** | *3 Competitive Teams (Tier 3/4)*
 *Duration: 4 Months (Continuous)*
 
 - **Strategic Integration:** Collaborated with coaching staff to rebuild macro foundations, resulting in improved mid-game decision-making and objective control across all rosters.
@@ -25,7 +28,7 @@ To solve the frustrations with the public free tools, I developed a private in-h
 
 ##### ***Note: This tool is currently proprietary for active competitive use.***
 ---
-### Core Competencies
+### Competencies
 
 | Category | Skills & Tools |
 | :--- | :--- |
@@ -34,4 +37,19 @@ To solve the frustrations with the public free tools, I developed a private in-h
 | **Coaching** | Individual Player Development (1-on-1), Team Cohesion Workshops, Weekly VOD Review Sessions, Scrim Analysis |
 | **Scouting** | Advanced OP.GG Analysis ( tendencies, ward spots, pathing), Deep-Dive VOD Pattern Recognition, Enemy Team Habit Mapping |
 
-<img width="1775" height="593" alt="REDACTEDScreenshot 2026-02-26 122553" src="https://github.com/user-attachments/assets/8c364a8a-fee5-43dc-9638-4cd1e7ebccc8" />
+### Methodology
+
+I believe that data without context is noise. My workflow is structured to ensure that every piece of analysis results in action:
+
+1.  **Scouting (The Enemy):** I combine OP.GG frequency data with deep VOD review to map out specific player habits—whether it’s a jungler’s specific clear speed, a support’s roam timing, or a top laner’s teleport usage.
+2.  **Internal Review (Us):** Weekly reviews focusing on "Why" we lost fights, not just "What" we lost. I emphasize champion mastery and mechanical synergy to ensure the team is playing to their individual strengths.
+3.  **Collaboration:** I work alongside the Head Coach, not in isolation, that way the direction of the team is unified. I provide the data and pattern recognition; they manage the player psychology. Together, we create a holistic environment for improvement.
+
+### Redacted Examples of Work
+
+<img width="1775" height="593" alt="REDACTEDScreenshot 2026-02-26 122553" src="https://github.com/user-attachments/assets/66421e24-c869-4719-89ba-bdf82f9fc969" />
+<img width="1235" height="789" alt="REDACTEDScreenshot 2026-02-08 212800" src="https://github.com/user-attachments/assets/de15ad63-5c53-406d-b47a-4416ba783765" />
+
+### Contact
+Discord: Handburger
+
