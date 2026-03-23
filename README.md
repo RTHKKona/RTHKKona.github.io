@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/6d60d482-a336-491e-ab69-0569a1a6bcbc" style="max-width: 100%; height: auto;"/>
 
-#### Hello! Here's my portfolio/e-sports resume for League of Legends. If you would like to contact me for inquiries, my Discord username is Handburger.
+#### Hello! Here's my portfolio/e-sports resume for League of Legends. If you would like to contact me for inquiries, my Discord username is Handburger. Alternatively, my e-sports email is handburger.analyst@gmail.com.
 
 ### Table of Contents
 * [Professional Experience](#professional-experience)
