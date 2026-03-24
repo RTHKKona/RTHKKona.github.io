@@ -77,5 +77,7 @@ My workflow is structured to ensure that analysis results in action:
 [↑ Back to Top](#table-of-contents)
 
 ### Contact
-Discord: Handburger
 
+You can contact me via these avenues:
+* Discord: Handburger
+* Email: handburger.analyst@gmail.com
