@@ -28,6 +28,9 @@
 ### Featured Project: Private Analyst Suite - HBPrepper
 
 To solve the frustrations with the public free tools, I developed a private in-house analytical tool designed to streamline the pre-game preparation workflow that perfectly fits my ideas.
+**Tech Stack**
+HTML, CSS, JavaScript, JSON
+
 **Key Features:**
 - **Open-ended Scouting:** A private tool that is simultaneously a blank canvas and a place to aggregate data.
 - **Map Planning Integration:** A visual interface for drafting level 1 setups and jungle pathing strategies based on enemy positional habits.
