@@ -77,7 +77,7 @@ My workflow is structured to ensure that analysis results in action:
 ### Redacted Samples of Work
 
 <img src="https://github.com/user-attachments/assets/66421e24-c869-4719-89ba-bdf82f9fc969" style="max-width: 100%; height: auto;"/>
-<img src="https://github.com/user-attachments/assets/de15ad63-5c53-406d-b47a-4416ba783765" style="max-width: 100%; height: auto;"/>
+<img src="https://github.com/user-attachments/assets/d3a3de53-1832-4c3c-bd3c-bc97d17220f2" style="max-width: 100%; height: auto;"/>
 <img src="https://github.com/user-attachments/assets/729961bf-ee1c-40d0-89ca-2295dc6d8b61" style="max-width: 100%; height: auto;"/>
 <img src="https://github.com/user-attachments/assets/a763a483-5991-434a-a81d-54b83a33e316" style="max-width: 100%; height: auto;"/>
 
