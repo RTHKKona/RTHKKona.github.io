@@ -14,7 +14,7 @@
 
 ### Professional Experience
 
-**Freelance LoL Analyst & Head Coach** | *3 Competitive Teams (Tier 3/4)*
+**Freelance LoL Analyst** | *3 Competitive Teams (Tier 3/4)*
 *Duration: 4 Months (Continuous)*
 
 - **Strategic Integration:** Collaborated with coaching staff to build on macro foundations, resulting in improved mid-game decision-making and objective control across all rosters.
